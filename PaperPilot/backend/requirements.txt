@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+gtts
+PyPDF2
+beautifulsoup4
+requests
+python-multipart
